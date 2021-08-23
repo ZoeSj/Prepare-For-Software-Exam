@@ -10,6 +10,8 @@
 
 [Software-Design-Engineer-Data](https://github.com/hqweay/Software-Design-Engineer-Data)
 
+[Software-level-test](https://github.com/OrangeHao/Software-level-test)
+
 ### 考点：
 #### 上午题目
 - 一、计算机基本知识 (1-6/6分/8%/难度中等)
